@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Fact-Checking Web App
 
 ## Overview
@@ -44,3 +45,6 @@ It then cross-references those claims with live web data and classifies them as:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+=======
+# factcheck-ai
+>>>>>>> 3884cd312f8168a00526e3c3817d30e5f3ab1f12
