@@ -1,0 +1,7 @@
+streamlit
+groq
+requests
+python-dotenv
+PyPDF2
+pypdf
+tavily-python
